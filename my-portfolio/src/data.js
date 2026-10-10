@@ -43,45 +43,47 @@ export const profile = {
 
 export const coreStack = [
   'C#',
-  '.NET Core',
+  '.NET',
   'ASP.NET Core',
   'PostgreSQL',
   'SQL Server',
   'Docker',
   'Jenkins',
   'Huawei Cloud',
+  'Copilot CLI',
+  'Azure DevOps Server',
 ]
 
 export const skillGroups = [
   {
     id: 'languages',
     title: 'Languages',
-    items: ['C#', 'Python', 'JavaScript', 'T-SQL', 'XML'],
+    items: ['C#', 'React', 'React Native', 'JavaScript', 'Python'],
   },
   {
     id: 'backend',
     title: 'Backend',
-    items: ['.NET Core', 'ASP.NET Core', 'WinForms', 'REST APIs', 'Webhooks', 'Node.js'],
+    items: ['.NET', 'ASP.NET Core', 'WinForms', 'REST APIs', 'Webhooks', 'Node.js'],
   },
   {
     id: 'database',
     title: 'Databases',
-    items: ['PostgreSQL', 'SQL Server', 'Query tuning'],
+    items: ['PostgreSQL', 'SQL Server'],
   },
   {
     id: 'devops',
     title: 'DevOps & Cloud',
-    items: ['Docker', 'Jenkins', 'Huawei Cloud', 'Kubernetes', 'CI/CD'],
+    items: ['Docker', 'Jenkins', 'Huawei Cloud', 'Kubernetes', 'NewRelic'],
   },
   {
-    id: 'frontend',
-    title: 'Frontend & Mobile',
-    items: ['React', 'React Native', 'HTML/CSS'],
+    id: 'ide',
+    title: 'IDE & Tools',
+    items: ['Visual Studio', 'Android Studio', 'Copilot CLI', 'Postman', 'Veracrypt'],
   },
   {
-    id: 'ml',
-    title: 'Scripting & Automation',
-    items: ['Python', 'File parsers', 'OpenCV', 'YOLOv8'],
+    id: 'versionControl',
+    title: 'Version Control',
+    items: ['Azure DevOps Server', 'GitHub Desktop'],
   },
 ]
 

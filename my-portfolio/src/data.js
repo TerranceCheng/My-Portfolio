@@ -25,7 +25,7 @@ export const profile = {
   github: 'https://github.com/TerranceCheng',
   linkedin: 'https://www.linkedin.com/in/terrance516/',
   resume:
-    'https://drive.google.com/file/d/1ociBClF6KPcitfrppZsBVBdPANRA69We/view?usp=sharing',
+    'https://drive.google.com/file/d/1RF64AJ3W_dGh1ir95KooiiJ7iTCX3kJc/view?usp=sharing',
 
   intro:
     'I build and maintain POS systems, payment integrations, and delivery platform syncs, along with backend APIs and deployment. Most of my work involves handling edge cases, writing clean validation logic, and making sure database queries stay fast when traffic picks up.',
